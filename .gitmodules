@@ -1,3 +1,6 @@
 [submodule "son"]
 	path = son
 	url = https://github.com/LeonWu1994/son.git
+[submodule "daughter"]
+	path = daughter
+	url = https://github.com/LeonWu1994/daughter.git
